@@ -1,0 +1,18 @@
+[
+    {
+        "nama" : "Aditya Fataha",
+        "umur" : 21,
+        "nrp"  : "183040115",
+        "lulus": true,
+        "hobby": [
+            "dakwah",
+            "coding",
+            "history",
+            "gaming"
+        ],
+        "mentor": {
+            "mentor1" : "Sandhika Galih",
+            "mentor2" : "Fajar Darmawan"
+        }
+    }
+]
